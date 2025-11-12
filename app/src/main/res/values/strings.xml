@@ -1,0 +1,8 @@
+<resources>
+        <string name="app_name">Your App Name</string>  <!-- Если не определено -->
+        <string name="nothing_found">Ничего не найдено</string>  <!-- Добавьте это -->
+        <string name="something_went_wrong">Что-то пошло не так</string>  <!-- Добавьте это -->
+        <!-- Добавьте другие, если нужны, например: -->
+        <!-- <string name="queryInput_hint">Введите название фильма</string> -->
+        <!-- <string name="searchButton_text">Искать</string> -->
+</resources>
